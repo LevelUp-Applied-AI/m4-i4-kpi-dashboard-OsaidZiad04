@@ -1,0 +1,11 @@
+{
+    "targets": {
+        "monthly_revenue": 3000,
+        "weekly_orders": 8,
+        "aov": 100,
+        "monthly_registrations": 4
+    },
+    "thresholds": {
+        "warning_ratio": 0.8
+    }
+}
